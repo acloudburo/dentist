@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://dentist.curation.space/2016/09/01/zahnartz-news-1.html"/>
     <id>https://dentist.curation.space/2016/09/01/zahnartz-news-1.html</id>
     <published>2016-09-01T22:29:47Z</published>
-    <updated>2016-09-02T22:26:58+00:00</updated>
+    <updated>2016-09-03T08:19:23+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -29,7 +29,9 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-       &lt;div&gt;&lt;/div&gt;
+       &lt;div class="responsive-video"&gt;
+        &lt;iframe src="https://www.youtube.com/embed/J08nY7HKmSk?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+       &lt;/div&gt;
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -49,7 +51,7 @@
     <link rel="alternate" href="https://dentist.curation.space/2016/09/01/test-note.html"/>
     <id>https://dentist.curation.space/2016/09/01/test-note.html</id>
     <published>2016-09-01T22:29:47Z</published>
-    <updated>2016-09-02T22:22:44+00:00</updated>
+    <updated>2016-09-03T08:15:07+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
