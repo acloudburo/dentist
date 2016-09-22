@@ -14,15 +14,28 @@
     <link rel="alternate" href="https://dentist.curation.space/2016/09/01/embedding-video-sample.html"/>
     <id>https://dentist.curation.space/2016/09/01/embedding-video-sample.html</id>
     <published>2016-09-01T22:29:47Z</published>
-    <updated>2016-09-04T10:19:31+00:00</updated>
+    <updated>2016-09-22T11:20:20+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/7abd4965704f5c5ea737f78344dec085.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
-    &lt;p&gt;&lt;div&gt;
+    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
         A video may simply embedded into an article.
       &lt;/div&gt;
       &lt;div&gt;
@@ -47,7 +60,8 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;br&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
