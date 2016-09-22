@@ -61,6 +61,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dentist.curation.space/blog.html</loc>
+    <lastmod>2016-09-22</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dentist.curation.space/footer3.html</loc>
     <lastmod>2016-09-22</lastmod>
     <priority>1.0</priority>
