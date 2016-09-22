@@ -1,2 +1,3 @@
+# Alle Robots ausschließen
 User-agent: *
-Sitemap: https://dentist.curation.space/sitemap.xml
+Disallow: /temp/
