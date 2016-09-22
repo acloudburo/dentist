@@ -5,16 +5,41 @@
   <id>https://dentist.curation.space</id>
   <link href="https://dentist.curation.space"/>
   <link href="https://dentist.curation.space/feed.xml" rel="self"/>
-  <updated>2016-09-22T12:29:22Z</updated>
+  <updated>2016-09-22T22:07:32Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>Laser Technologie</title>
+    <link rel="alternate" href="https://dentist.curation.space/2016/09/22/laser-technologie.html"/>
+    <id>https://dentist.curation.space/2016/09/22/laser-technologie.html</id>
+    <published>2016-09-22T22:07:32Z</published>
+    <updated>2016-09-22T22:07:32+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;div style="font-size:14px;"&gt;
+         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div style="font-size:16px;"&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Frühlingsaktion</title>
     <link rel="alternate" href="https://dentist.curation.space/2016/09/22/fruhlingsaktion.html"/>
     <id>https://dentist.curation.space/2016/09/22/fruhlingsaktion.html</id>
     <published>2016-09-22T12:29:22Z</published>
-    <updated>2016-09-22T16:54:55+00:00</updated>
+    <updated>2016-09-22T22:06:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -62,7 +87,7 @@
     <link rel="alternate" href="https://dentist.curation.space/2016/09/22/neuer-kariesschutz-behandling.html"/>
     <id>https://dentist.curation.space/2016/09/22/neuer-kariesschutz-behandling.html</id>
     <published>2016-09-22T12:08:43Z</published>
-    <updated>2016-09-22T16:54:57+00:00</updated>
+    <updated>2016-09-22T22:06:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -111,7 +136,7 @@
     <link rel="alternate" href="https://dentist.curation.space/2016/09/01/embedding-video-sample.html"/>
     <id>https://dentist.curation.space/2016/09/01/embedding-video-sample.html</id>
     <published>2016-09-01T22:29:47Z</published>
-    <updated>2016-09-22T16:55:16+00:00</updated>
+    <updated>2016-09-22T22:06:28+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
